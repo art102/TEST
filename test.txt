@@ -1,0 +1,2 @@
+puts 'Hello! This is my first day on course of Ruby On Rails!'
+20.times { print 'Rails! '; sleep rand(0.1..0.4) }
